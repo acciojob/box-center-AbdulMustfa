@@ -1,9 +1,10 @@
 /*  your css code here. If applicable */
 .container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-top-width:2px;
+	height: 100vh;
 }
 
 .box {
