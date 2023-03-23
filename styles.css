@@ -3,12 +3,14 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	border-top-width:2px;
 	height: 100vh;
 }
 
 .box {
   background-color: lightblue;
+	color:purple;
+	font-size:10px;
+	display:inline-block;
   border: 2px solid black;
   padding: 20px;
   text-align: center;
